@@ -1,4 +1,4 @@
-# LED Heart 
+# LED Heart <3
 Running LED lights, PCB and circuit design.
 
 <img src="https://github.com/alisya-k/LED-Chaser/assets/56568411/508b29b5-c107-4bb9-8aa9-e6e988cbc42f" width="400px" />
